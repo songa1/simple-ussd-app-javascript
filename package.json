@@ -1,0 +1,15 @@
+{
+  "name": "checkdata",
+  "version": "1.0.0",
+  "description": "This is a simple ussd app to check your phone number and few od your personal data",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Achille Songa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
